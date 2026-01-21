@@ -21,10 +21,6 @@ The SQL scripts are organized into separate files for schema creation, data clea
 Power BI was used to transform the SQL analysis results into **interactive dashboards**. Key performance indicators (KPIs), trend charts, and comparative visuals were designed to provide an intuitive understanding of business performance. The dashboards highlight patterns such as regional sales dominance, category-wise revenue contribution, and profit fluctuations over time.
 
 
-
-> **Note:** PostgreSQL is not directly connected to Power BI in this project.  
-> SQL queries and Power BI dashboards are maintained separately to demonstrate strong querying logic and independent visualization capabilities. This approach ensures clarity in analytical reasoning while keeping dashboard design focused and optimized.
-
 ### 📈 Key Outcomes
 - Identification of regions contributing the highest overall sales  
 - Clear visibility into category and sub-category profitability  
